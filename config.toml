@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://www.rainaldi.dev/"  # Include trailing slash
-title = "Lou Raianldi, Dynamics 365 Consultant | Technologist"
+title = "Lou Rainaldi, Dynamics 365 Consultant | Technologist"
 author = "Lou Rainaldi"
 copyright = "Copyright © 2010–2020, Lou Rainaldi; all rights reserved."
 # canonifyurls = true
