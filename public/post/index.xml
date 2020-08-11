@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lou Rainaldi, Dynamics 365 Consultant | Technologist</title>
-    <link>https://www.rainaldi.dev/</link>
-    <description>Recent content on Lou Rainaldi, Dynamics 365 Consultant | Technologist</description>
+    <title>Posts on Lou Rainaldi, Dynamics 365 Consultant | Technologist</title>
+    <link>https://www.rainaldi.dev/post/</link>
+    <description>Recent content in Posts on Lou Rainaldi, Dynamics 365 Consultant | Technologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2010–2020, Lou Rainaldi; all rights reserved.</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.rainaldi.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.rainaldi.dev/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://www.rainaldi.dev/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rainaldi.dev/archives/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
@@ -63,17 +54,6 @@
       
       <guid>https://www.rainaldi.dev/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.rainaldi.dev/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rainaldi.dev/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
   </channel>
