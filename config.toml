@@ -1,9 +1,9 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://www.rainaldi.dev/"  # Include trailing slash
-title = "Clarity"
+title = "Lou Raianldi, Dynamics 365 Consultant | Technologist"
 author = "Lou Rainaldi"
-copyright = "Copyright © 2008–2018, Lou Rainaldi; all rights reserved."
+copyright = "Copyright © 2010–2020, Lou Rainaldi; all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
@@ -24,7 +24,7 @@ theme = "hugo-clarity"
 author = "Lou Rainaldi"
 twitter = "@ljrain"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
+introDescription = "Technologist, Dynamics 365, Power Apps, Common Data Service."
 
 # Google analytics Id
 ga_analytics = "XXXXXXXXXX"
