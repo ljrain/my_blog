@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Lou Rainaldi, Dynamics 365 Consultant | Technologist</title>
+    <title>Categories on Rainaldi.dev - Technologist</title>
     <link>https://www.rainaldi.dev/categories/</link>
-    <description>Recent content in Categories on Lou Rainaldi, Dynamics 365 Consultant | Technologist</description>
+    <description>Recent content in Categories on Rainaldi.dev - Technologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2010–2020, Lou Rainaldi; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 16:21:47 -0400</lastBuildDate>
     
 	<atom:link href="https://www.rainaldi.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>syntax</title>
-      <link>https://www.rainaldi.dev/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Technology</title>
+      <link>https://www.rainaldi.dev/categories/technology/</link>
+      <pubDate>Thu, 13 Aug 2020 16:21:47 -0400</pubDate>
       
-      <guid>https://www.rainaldi.dev/categories/syntax/</guid>
+      <guid>https://www.rainaldi.dev/categories/technology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://www.rainaldi.dev/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>https://www.rainaldi.dev/categories/about/</link>
+      <pubDate>Thu, 13 Aug 2020 16:08:24 -0400</pubDate>
       
-      <guid>https://www.rainaldi.dev/categories/themes/</guid>
+      <guid>https://www.rainaldi.dev/categories/about/</guid>
       <description></description>
     </item>
     

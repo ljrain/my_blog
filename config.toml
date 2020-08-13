@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://www.rainaldi.dev/"  # Include trailing slash
-title = "Lou Rainaldi, Dynamics 365 Consultant | Technologist"
+title = "Rainaldi.dev - Technologist"
 author = "Lou Rainaldi"
 copyright = "Copyright © 2010–2020, Lou Rainaldi; all rights reserved."
 # canonifyurls = true
@@ -48,7 +48,7 @@ mainSections = ["post"] # see config details here https://gohugo.io/functions/wh
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
-logo = "logos/logo.png"
+#logo = "logos/logo.png"
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally

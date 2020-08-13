@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lou Rainaldi, Dynamics 365 Consultant | Technologist</title>
+    <title>Rainaldi.dev - Technologist</title>
     <link>https://www.rainaldi.dev/</link>
-    <description>Recent content on Lou Rainaldi, Dynamics 365 Consultant | Technologist</description>
+    <description>Recent content on Rainaldi.dev - Technologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2010–2020, Lou Rainaldi; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 16:21:47 -0400</lastBuildDate>
     
 	<atom:link href="https://www.rainaldi.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DynamicsFundamentals</title>
+      <link>https://www.rainaldi.dev/post/2020/08/dynamicsfundamentals/</link>
+      <pubDate>Thu, 13 Aug 2020 16:21:47 -0400</pubDate>
+      
+      <guid>https://www.rainaldi.dev/post/2020/08/dynamicsfundamentals/</guid>
+      <description>Insert Lead paragraph here.</description>
+    </item>
+    
+    <item>
+      <title>ImBack</title>
+      <link>https://www.rainaldi.dev/post/2020/08/imback/</link>
+      <pubDate>Thu, 13 Aug 2020 16:08:24 -0400</pubDate>
+      
+      <guid>https://www.rainaldi.dev/post/2020/08/imback/</guid>
+      <description>I&amp;rsquo;m back!
+Recently Microsoft has provided a new app service on Azure for static sites!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.rainaldi.dev/about/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rainaldi.dev/about/</guid>
+      <description>…dedicated to finding and implementing reusable software solutions quickly and efficiently
+ Having been in the computer industry professionally for over 20 years now, I have been involved in projects covering various aspects of technology covering several types of industries. This depth has benefited me with learning from some of the best people in the industry and expanding my knowledge set to handling many different situations.
+Starting early on I worked with a large retail company and established a Wildcat!</description>
+    </item>
     
     <item>
       <title></title>
@@ -18,62 +48,6 @@
       
       <guid>https://www.rainaldi.dev/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://www.rainaldi.dev/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rainaldi.dev/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://www.rainaldi.dev/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rainaldi.dev/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://www.rainaldi.dev/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rainaldi.dev/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://www.rainaldi.dev/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rainaldi.dev/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://www.rainaldi.dev/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rainaldi.dev/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.rainaldi.dev/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rainaldi.dev/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
   </channel>

@@ -1,25 +1,18 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "About Rainaldi.dev. Pittsburgh Power Platform Consultant"
+date = "2020-08-13"
+aliases = ["about-us", "about-lou", "contact","lou"]
+author = "Lou Rainaldi"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+> …dedicated to finding and implementing reusable software solutions quickly and efficiently
 
-Hugo makes use of a variety of open source projects including:
+Having been in the computer industry professionally for over 20 years now, I have been involved in projects covering various aspects of technology covering several types of industries. This depth has benefited me with learning from some of the best people in the industry and expanding my knowledge set to handling many different situations.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+![:left](/images/lou/lou_emoj_200x200.jfif)Starting early on I worked with a large retail company and established a Wildcat! BBS system that provided users with access to UseNet Groups and support for their computer purchases. Based on the value from this BBS we expanded to a second location with a nightly sync between the two as well as UseNet groups! **This was really cool at the time!**
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I have maintained a site for nearly 10 years in one form or another. With my focus now on the Microosft Power Platform I wanted to re-launch this site!
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I will be posting things I learn, issues I run into and my thoughts on all things Power Platform.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
