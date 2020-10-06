@@ -19,7 +19,6 @@ tags:
   - GoHugo
   - Azure
 ---
-I'm back!
 
-Recently Microsoft has provided a new app service on Azure for static sites! 
+Recently Microsoft has provided a new app service on Azure for static sites!
 
