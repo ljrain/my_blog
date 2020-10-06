@@ -21,4 +21,9 @@ tags:
   - Azure
 ---
 
-I am so excited about this new functionality. 
+I am very excited Microsoft Power Platform Build Tools going GA. This was a huge hole in the Application Development Lifecycle for Dynamics 365 and Power Platform. When creating applications, you always have the source code stored in a source control system. The idea that you should be able to re-create a system just using the source code, becomes much more maintainable with Power Platform Build Tools. 
+
+With source control, this also makes Continuous Integration (CI) and Continuous Delivery (CD) possible. With Power Platform Build Tools, we a Solution stored within a source control repository that can then perform a check on the solution and deploy it to another environment automatically. 
+
+## Sample Power Platform Continuous Integration
+
