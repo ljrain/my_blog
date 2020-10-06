@@ -15,8 +15,17 @@ figurePositionShow: true # Override global value for showing the figure label.
 categories:
   - Technology
 tags:
-  - Tag_name1
-  - Tag_name2
+  - Power Platform
+  - Dynamics 365
+  - Microsoft Certified
 ---
 
-**Insert Lead paragraph here.**
+My last Microsoft exam was when I obtained my MCSE + Internet; this was over 20 years ago! 
+
+So, things have changed a lot. I have been doing a lot of work using Dynamics 365, which is built on the Power Platform. 
+
+
+So, things have changed a lot. I have been working with the Power Platform since it was introduced, I have been working on Dynamics 365 for several years at the time. 
+
+One of the first exams that I pursued is (https://docs.microsoft.com/en-us/learn/certifications/d365-fundamentals)[**Microsoft Certified: Dynamics 365 Fundamentals**]
+

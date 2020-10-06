@@ -3,71 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.rainaldi.dev/</loc>
-    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/categories/</loc>
-    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/post/2020/08/dynamicsfundamentals/</loc>
-    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/post/</loc>
-    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/tags/tag_name1/</loc>
-    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/tags/tag_name2/</loc>
-    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/tags/</loc>
-    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/categories/technology/</loc>
-    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/categories/about/</loc>
-    <lastmod>2020-08-13T16:08:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/tags/azure/</loc>
-    <lastmod>2020-08-13T16:08:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/tags/gohugo/</loc>
-    <lastmod>2020-08-13T16:08:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/post/2020/08/imback/</loc>
-    <lastmod>2020-08-13T16:08:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/tags/static-site-generator/</loc>
-    <lastmod>2020-08-13T16:08:24-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.rainaldi.dev/about/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
@@ -78,7 +13,23 @@
   </url>
   
   <url>
+    <loc>https://www.rainaldi.dev/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.rainaldi.dev/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/tags/</loc>
   </url>
   
 </urlset>
