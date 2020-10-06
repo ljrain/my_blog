@@ -20,12 +20,13 @@ tags:
   - Microsoft Certified
 ---
 
-My last Microsoft exam was when I obtained my MCSE + Internet; this was over 20 years ago! 
+My last Microsoft exam was when I obtained my MCSE + Internet; this was over 20 years ago. So, things have changed a lot!
 
-So, things have changed a lot. I have been doing a lot of work using Dynamics 365, which is built on the Power Platform. 
+I have been working with Dynamics 365 for about 8 years now, started with Power Platform during it's release. During my preparations for my MCSE, I read a lot of hard copy books.
+
+## Microsoft Certified: Dynamics 365 Fundamentals
+
+The first exam that I pursued was [https://docs.microsoft.com/en-us/learn/certifications/d365-fundamentals](**Microsoft Certified: Dynamics 365 Fundamentals**). I have b een working with the platform for many years now, so I am very comfortable working through issues that are common as well as quickly building solutions. 
 
 
-So, things have changed a lot. I have been working with the Power Platform since it was introduced, I have been working on Dynamics 365 for several years at the time. 
-
-One of the first exams that I pursued is (https://docs.microsoft.com/en-us/learn/certifications/d365-fundamentals)[**Microsoft Certified: Dynamics 365 Fundamentals**]
 
