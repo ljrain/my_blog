@@ -25,5 +25,3 @@ I am very excited Microsoft Power Platform Build Tools going GA. This was a huge
 
 With source control, this also makes Continuous Integration (CI) and Continuous Delivery (CD) possible. With Power Platform Build Tools, we a Solution stored within a source control repository that can then perform a check on the solution and deploy it to another environment automatically. 
 
-## Sample Power Platform Continuous Integration
-

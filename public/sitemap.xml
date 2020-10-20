@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.rainaldi.dev/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/categories/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/tags/dynamics-365/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/post/2020/08/dynamicsfundamentals/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/tags/microsoft-certified/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/categories/microsoft-certified/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/post/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/tags/power-platform/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rainaldi.dev/tags/</loc>
+    <lastmod>2020-08-13T16:21:47-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.rainaldi.dev/about/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
@@ -13,23 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.rainaldi.dev/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.rainaldi.dev/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.rainaldi.dev/tags/</loc>
   </url>
   
 </urlset>

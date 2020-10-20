@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Rainaldi.dev - Technologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2010–2020, Lou Rainaldi; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 13 Aug 2020 16:21:47 -0400</lastBuildDate>
     
 	<atom:link href="https://www.rainaldi.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Certified</title>
+      <link>https://www.rainaldi.dev/categories/microsoft-certified/</link>
+      <pubDate>Thu, 13 Aug 2020 16:21:47 -0400</pubDate>
+      
+      <guid>https://www.rainaldi.dev/categories/microsoft-certified/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

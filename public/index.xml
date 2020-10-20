@@ -6,9 +6,21 @@
     <description>Recent content on Rainaldi.dev - Technologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2010–2020, Lou Rainaldi; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 13 Aug 2020 16:21:47 -0400</lastBuildDate>
     
 	<atom:link href="https://www.rainaldi.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dynamics 365 Fundamentals</title>
+      <link>https://www.rainaldi.dev/post/2020/08/dynamicsfundamentals/</link>
+      <pubDate>Thu, 13 Aug 2020 16:21:47 -0400</pubDate>
+      
+      <guid>https://www.rainaldi.dev/post/2020/08/dynamicsfundamentals/</guid>
+      <description>My last Microsoft exam was when I obtained my MCSE + Internet; this was over 20 years ago. So, things have changed a lot!
+Microsoft Certified: Dynamics 365 Fundamentals The first exam that I decided to pursue was Microsoft Certified: Dynamics 365 Fundamentals.
+The Learning Path that is provided in the link above is a great way to prepare for the exam. Microsoft has been building out the Microsoft Learn system, this should be the primary source of content as this is directly from Microsoft.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,8 +29,8 @@
       
       <guid>https://www.rainaldi.dev/about/</guid>
       <description>…dedicated to finding and implementing reusable software solutions quickly and efficiently
- Having been in the computer industry professionally for over 20 years now, I have been involved in projects covering various aspects of technology covering several types of industries. This depth has benefited me with learning from some of the best people in the industry and expanding my knowledge set to handling many different situations.
-Starting early on I worked with a large retail company and established a Wildcat!</description>
+ Having been in the computer industry professionally for over 20 years now, I have been involved in projects covering various aspects of technology as well as several types of industries. Throughout my career I have adapted and enthusatically learned new technologies.
+Early in my career I worked with a large retail company and helped them establish a Wildcat!</description>
     </item>
     
     <item>
