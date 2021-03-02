@@ -4,7 +4,7 @@ title: "Power Platform Functional Consultant" # Title of the blog post.
 date: 2021-03-02 # Date of post creation.
 description: "" # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
-draft: false # Sets whether to render this page. Draft of true will not be rendered.
+draft: true # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
 # menu: main
 featureImage: "/images/lou/power-apps-logo-c-small-custom.png" # Sets featured image on blog post.
